@@ -1,0 +1,13 @@
+{
+  "showThemeCredit": true,
+  "name": "ADAS Expert",
+  "shortDesc": "Overview of automobile collision and accident avoidance systems",
+  "url": "https://hylia.website",
+  "authorEmail": "jeff@terminalhoming.com",
+  "authorHandle": "@jwithing",
+  "authorName": "Jeff",
+  "enableThirdPartyComments": false,
+  "maxPostsPerPage": 5,
+  "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
+  "faviconPath": "/images/favicon.png"
+}
